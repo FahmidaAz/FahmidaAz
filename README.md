@@ -1,7 +1,7 @@
 ## Hi! I'm Fahmida Azmin👋
 
 # 💫 About Me:
-<br>Welcome to my GitHub profile. I'm a software engineer in test. With hands-on experience in manual testing, automated API testing, performance testing, and Web automation, I take pride in delivering <br>bug-free, user-friendly experiences. 
+<br>Welcome to my GitHub profile. I'm a software engineer in test. With hands-on experience in manual testing, automated API testing, performance testing, and Web automation, I take pride in delivering bug-free, user-friendly experiences. 
 
 
 ## 🌐 Socials:
